@@ -1,7 +1,4 @@
 - 👋 Olá, eu sou @LiziBugalski
-
-#
-
 - 👀 Eu estou interesada em aprender mais sobre programação e pensamento computacional
 - 🌱 Eu estou aprendendo sobre linguagem em blocos (Scratch), JavaScript e HTML
 - 💞️ Estou a disposição para colaborar com os meus alunos no processo de ensino aprendizagem da disciplina de Pensamento Computacional;
